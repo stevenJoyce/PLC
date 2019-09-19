@@ -1,0 +1,13 @@
+/* CSS3 Book Chap2 Pg26 */
+/* filename: descendant.css */
+
+/* colour the items in each list */
+
+ul li { color : red }
+ol li { color : blue}
+
+#menu li { color:green }
+
+#menu ul li { color:orange }
+#menu ol li { color:purple }
+

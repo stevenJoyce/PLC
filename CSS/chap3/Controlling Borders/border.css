@@ -1,0 +1,7 @@
+#p1 {color : red ; border : solid }
+
+#p2 {border-top : 0.5em orange dotted ; border-bottom : 0.5em green dashed }
+
+#p3 {border-style : Ridge Double ; border-width :1 em ; border color : blue }
+
+#p4 {border : 1em yellow outset}

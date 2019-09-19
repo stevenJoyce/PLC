@@ -1,0 +1,44 @@
+div.large {  width : 200px ; 
+			height : 90px; 
+			border : 1px solid black}
+
+div.small {  width : 80px ;
+			height : 50px ;
+			border : 1px solid black }
+			
+
+div.top-left {position : absolute ;
+			 top : 0px ;
+			 left : 0px ;
+			 background : lime}
+
+div.top-right {position : absolute ; 
+			  top : 0px ; 
+			  right : 0px ;
+			  background : aqua}
+
+div.btm-left {position : absolute ; 
+			 bottom : 0px ; 
+			 left : 0px ;
+			 background : yellow}
+
+div.btm-right {position : absolute ; 
+			  bottom : 0px ; 
+			  right : 0px ;
+			  background : orange}
+			  
+div.center {position : fixed ; 
+			  top : 250px ; 
+			  right : 550px ;
+			  background : fuchsia}	
+
+div.cent {position : fixed ; 
+			  bottom : 540px ; 
+			  right : 650px ;
+			  background : red}	
+
+div.new {position : fixed ; 
+			  bottom : 840px ; 
+			  right : 750px ;
+			  background : teal}			  
+			  

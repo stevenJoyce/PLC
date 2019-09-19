@@ -1,0 +1,25 @@
+/* CSS3 Book CH3 PG 39       */
+/* Recognising content boxes */
+/* file name:box.css		 */
+
+/*set file width and background color
+of the core content area             */
+p { background:aqua;width:40em }
+
+/*add some padding */ 
+p.pad { padding: 2em }
+
+/* add a border */
+p.bdr { border: 1em silver solid }
+
+/*add a margin*/
+p.mgn { margin: 3em }
+
+
+p.style {
+	background : yellow ;
+	width : 40em ;
+	padding : 1.5em ;
+	border : 0.5em green solid ;
+	margin : 5em ;
+}	

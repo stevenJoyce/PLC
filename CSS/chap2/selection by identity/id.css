@@ -1,0 +1,8 @@
+/* CSS3 Book Chap2 Pg25 */
+/* filename: id.css     */
+/* The Identity Selector*/
+
+#span1 { background : yellow }
+#span2 { background : lime }
+
+p#para1 { background : cyan ; width  : 70%  }

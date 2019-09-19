@@ -1,0 +1,14 @@
+/*Setting the width of the container*/
+div { width : 50%}
+
+/*Setting the background colour of all hyperlinks*/
+a { background : yellow }
+
+/*setting the background colour of the heading and list elements*/
+h1,ul { background : aqua }
+
+/* use a universal selector to change text*/
+*{ font-style : italic }
+
+/*using the usiversal selector "div" to add a border to every element*/
+div*{ border: 0.2em solid red }

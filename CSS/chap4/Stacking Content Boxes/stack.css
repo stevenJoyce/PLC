@@ -1,0 +1,45 @@
+div { width : 400px ; 
+	 height : 50px }
+
+div#text-box { position : absolute ;
+			   top : 20px ; 
+			   left : 20px ;
+			   background : yellow ;
+			   z-index : 4 }
+			   
+div#dark-gray { position : absolute ;
+			   top : 24px ; 
+			   left : 24px ;
+			   background : #666 ;
+			   z-index : 3 }
+			   
+div#lite-gray { position : absolute ;
+			   top : 28px ; 
+			   left : 28px ;
+			   background : #999 ;
+			   z-index : 2 }
+			   
+div#pale-gray { position : absolute ;
+			   top : 32px ; 
+			   left : 32px ;
+			   background : #CCC;
+			   z-index : 1 }
+
+ div#box-one    { position : absolute ;
+			   top : 80px ; 
+			   right: 80px ;
+			   background : teal ;
+			   z-index : 15}
+			   
+div#gray		 { position : absolute ;
+			   top : 81.5px ; 
+			   right : 81.5px ;
+			   background : #666 ;
+			   z-index : 14 }
+			   
+div#grey { position : absolute ;
+			   top : 83px ; 
+			   right : 83px ;
+			   background : #999 ;
+			   z-index : 13 }
+			   

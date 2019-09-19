@@ -1,0 +1,9 @@
+span {background : yellow ; margin : 000 10 em }
+
+p {background : url(image.jpg) teal repeat ; height : 9em }
+
+p#x {background-repeat : repeat-x }
+
+p#y {background-repeat : repeat-y }
+
+p#no {background-repeat : no-repeat }
